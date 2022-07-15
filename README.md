@@ -1,3 +1,2 @@
-# sidewinder
-# sidewinder_dma
-# sidewinder_xdma
+# Sidewinder design that has XDMA compliant DMA capabilities
+
